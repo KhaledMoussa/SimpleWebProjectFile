@@ -1,0 +1,12 @@
+Khaled T. Moussa
+URL to some small projects I did for school recently:
+
+
+Website build using Html and Css:
+https://khaledtmoussa.neocities.org/FinalProject/
+
+AngularJS app hosting on remote server:
+http://68.183.25.187:8080/gallery
+
+same webiste but using express to build:
+http://68.183.25.187:8080/photos
